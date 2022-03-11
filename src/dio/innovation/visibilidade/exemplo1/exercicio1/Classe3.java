@@ -9,5 +9,7 @@ class Classe3 {
         //classe1.atributo2;
         //classe1.atributo3;
 
+       
+
     }
 }
